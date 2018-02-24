@@ -1,7 +1,6 @@
 {
   "name": "mishka",
   "version": "1.0.0",
-  "description": "",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,12 @@
   "bugs": {
     "url": "https://github.com/mgolnev/mishka/issues"
   },
-  "homepage": "https://github.com/mgolnev/mishka#readme"
+  "homepage": "https://github.com/mgolnev/mishka#readme",
+  "devDependencies": {
+    "grunt-contrib-less": "^1.4.1"
+  },
+  "dependencies": {
+    "grunt": "^1.0.2"
+  },
+  "description": ""
 }
